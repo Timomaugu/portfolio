@@ -1,0 +1,50 @@
+[
+    {
+        "0": 2,
+        "1": "2017 - 2018",
+        "2": "Graphics Design",
+        "3": "Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit, Sed Do Eiusmod Tempor Incididunt Ut Labore Et Dolore Magna Aliqua.",
+        "4": "1",
+        "education_id": 2,
+        "education_year": "2017 - 2018",
+        "education_title": "Graphics Design",
+        "education_desc": "Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit, Sed Do Eiusmod Tempor Incididunt Ut Labore Et Dolore Magna Aliqua.",
+        "education_status": "1"
+    },
+    {
+        "0": 4,
+        "1": "2017 - 2018",
+        "2": "Back-End Development",
+        "3": "Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit, Sed Do Eiusmod Tempor Incididunt Ut Labore Et Dolore Magna Aliqua.",
+        "4": "1",
+        "education_id": 4,
+        "education_year": "2017 - 2018",
+        "education_title": "Back-End Development",
+        "education_desc": "Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit, Sed Do Eiusmod Tempor Incididunt Ut Labore Et Dolore Magna Aliqua.",
+        "education_status": "1"
+    },
+    {
+        "0": 44,
+        "1": "2017 - 2018",
+        "2": "Front-End Development",
+        "3": "Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit, Sed Do Eiusmod Tempor Incididunt Ut Labore Et Dolore Magna Aliqua.",
+        "4": "1",
+        "education_id": 44,
+        "education_year": "2017 - 2018",
+        "education_title": "Front-End Development",
+        "education_desc": "Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit, Sed Do Eiusmod Tempor Incididunt Ut Labore Et Dolore Magna Aliqua.",
+        "education_status": "1"
+    },
+    {
+        "0": 45,
+        "1": "2018 - 2019",
+        "2": "Software Development",
+        "3": "Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit, Sed Do Eiusmod Tempor Incididunt Ut Labore Et Dolore Magna Aliqua.",
+        "4": "1",
+        "education_id": 45,
+        "education_year": "2018 - 2019",
+        "education_title": "Software Development",
+        "education_desc": "Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit, Sed Do Eiusmod Tempor Incididunt Ut Labore Et Dolore Magna Aliqua.",
+        "education_status": "1"
+    }
+]

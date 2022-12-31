@@ -1,0 +1,44 @@
+[
+    {
+        "portifolio_id": 1,
+        "portifolio_title": "Blog Dev",
+        "portifolio_desc": "Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit, Sed Do Eiusmod Tempor Incididunt Ut Labore Et Dolore Magna Aliqua.",
+        "portifolio_photo": "portifolio-photo-1649264904.jpg",
+        "portifolio_url": "google.com"
+    },
+    {
+        "portifolio_id": 2,
+        "portifolio_title": "App Dev",
+        "portifolio_desc": "Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit, Sed Do Eiusmod Tempor Incididunt Ut Labore Et Dolore Magna Aliqua.",
+        "portifolio_photo": "portifolio-photo-1649266530.jpg",
+        "portifolio_url": "google.com"
+    },
+    {
+        "portifolio_id": 3,
+        "portifolio_title": "Logo",
+        "portifolio_desc": "Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit, Sed Do Eiusmod Tempor Incididunt Ut Labore Et Dolore Magna Aliqua.",
+        "portifolio_photo": "portifolio-photo-1649273296.jpg",
+        "portifolio_url": "google.com"
+    },
+    {
+        "portifolio_id": 4,
+        "portifolio_title": "Recording",
+        "portifolio_desc": "Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit, Sed Do Eiusmod Tempor Incididunt Ut Labore Et Dolore Magna Aliqua.",
+        "portifolio_photo": "portifolio-photo-1649273344.jpg",
+        "portifolio_url": "google.com"
+    },
+    {
+        "portifolio_id": 5,
+        "portifolio_title": "Banking",
+        "portifolio_desc": "Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit, Sed Do Eiusmod Tempor Incididunt Ut Labore Et Dolore Magna Aliqua.",
+        "portifolio_photo": "portifolio-photo-1649334485.jpg",
+        "portifolio_url": "google.com"
+    },
+    {
+        "portifolio_id": 6,
+        "portifolio_title": "Admin Dev",
+        "portifolio_desc": "Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit, Sed Do Eiusmod Tempor Incididunt Ut Labore Et Dolore Magna Aliqua.",
+        "portifolio_photo": "blog-photo-1649186620.jpeg",
+        "portifolio_url": "google.com"
+    }
+]
