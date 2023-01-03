@@ -11,7 +11,7 @@
 	 ?>
 <section class="home">
  <div class="image">
-        <img src="../storage/home/<?php echo $about['about_photo']; ?>" alt="">
+        <img src="../assets/img/avatars/<?php echo $about['about_photo']; ?>" alt="">
     </div>
     <div class="content">
         <h3>Hi, I'm <?php echo $about['about_name']; ?> </h3>
