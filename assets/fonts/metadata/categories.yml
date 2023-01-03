@@ -767,7 +767,7 @@ editors:
     - unlink
     - wrench
   label: Editors
-education:
+experience:
   icons:
     - apple-alt
     - atom
@@ -786,7 +786,7 @@ education:
     - shapes
     - theater-masks
     - user-graduate
-  label: Education
+  label: experience
 emoji:
   icons:
     - angry

@@ -1,0 +1,30 @@
+[
+    {
+        "experience_id": 1,
+        "experience_year": "2019 - 2020",
+        "experience_title": "Web - Frontend",
+        "experience_desc": "I served as a frontend web developer and database admin assistant at Kensoko.com.",
+        "experience_status": "1"
+    },
+    {
+        "experience_id": 2,
+        "experience_year": "2020 - 2021",
+        "experience_title": "Mobile Development - Flutter",
+        "experience_desc": "I served as mobile app developer to build high quality and mobile responsive apps with flutter at Tech Hive Company.",
+        "experience_status": "1"
+    },
+    {
+        "experience_id": 3,
+        "experience_year": "2021 - 2022",
+        "experience_title": "Web - Backend",
+        "experience_desc": "I served as a senior backend web developer(php and react js) at Fishmask company.",
+        "experience_status": "1"
+    },
+    {
+        "experience_id": 4,
+        "experience_year": "2022 - present",
+        "experience_title": "Data Analyst",
+        "experience_desc": "Served as a data scientist and analyst at Dataseal company - analysing data and building database models.",
+        "experience_status": "1"
+    }
+]

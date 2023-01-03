@@ -14,7 +14,7 @@
         <img src="../storage/home/<?php echo $about['about_photo']; ?>" alt="">
     </div>
     <div class="content">
-        <h3>hi, i'm <?php echo $about['about_name']; ?> </h3>
+        <h3>Hi, I'm <?php echo $about['about_name']; ?> </h3>
         <span> <?php echo $about['about_title']; ?></span>
         <p><?php echo $about['about_desc'];?></p>
         <a href="tel:<?php echo $about['about_hire']; ?>" class="btn"> Hire Me <i class="fas fa-phone"></i> </a>

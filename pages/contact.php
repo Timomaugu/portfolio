@@ -31,24 +31,24 @@
                 <div class="box-container">
                     <h1> contact me </h1>
                     <div class="box">
-                        <i class="fas fa-map"></i>
+                        <i class="fas fa-phone"></i>
                         <div class="info">
-                            <h3>address :</h3>
-                            <p><?php echo $contact['contact_address']; ?></p>
+                            <h3>Phone :</h3>
+                            <p><?php echo $contact['contact_phone']; ?></p>
                         </div>
                     </div>
                     <div class="box">
                         <i class="fas fa-envelope"></i>
                         <div class="info">
-                            <h3>email :</h3>
+                            <h3>Email :</h3>
                             <p><?php echo $contact['contact_email']; ?></p>
                         </div>
                     </div>
                     <div class="box">
-                        <i class="fas fa-phone"></i>
+                        <i class="fas fa-map"></i>
                         <div class="info">
-                            <h3>number :</h3>
-                            <p><?php echo $contact['contact_phone']; ?></p>
+                            <h3>Address :</h3>
+                            <p><?php echo $contact['contact_address']; ?></p>
                         </div>
                     </div>
                 </div>

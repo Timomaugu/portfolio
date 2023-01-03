@@ -15996,7 +15996,7 @@ school:
   search:
     terms:
       - building
-      - education
+      - experience
       - learn
       - student
       - teacher
@@ -19946,7 +19946,7 @@ university:
       - bank
       - building
       - college
-      - higher education - students
+      - higher experience - students
       - institution
   styles:
     - solid

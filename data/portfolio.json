@@ -1,8 +1,8 @@
 [
     {
         "portifolio_id": 1,
-        "portifolio_title": "Blog Dev",
-        "portifolio_desc": "Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit, Sed Do Eiusmod Tempor Incididunt Ut Labore Et Dolore Magna Aliqua.",
+        "portifolio_title": "Web Dev",
+        "portifolio_desc": "I served as a front end web developer and database admin assistant at Kensoko.com.",
         "portifolio_photo": "portifolio-photo-1649264904.jpg",
         "portifolio_url": "google.com"
     },
@@ -10,12 +10,12 @@
         "portifolio_id": 2,
         "portifolio_title": "App Dev",
         "portifolio_desc": "Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit, Sed Do Eiusmod Tempor Incididunt Ut Labore Et Dolore Magna Aliqua.",
-        "portifolio_photo": "portifolio-photo-1649266530.jpg",
+        "portifolio_photo": "bible_graphics.png",
         "portifolio_url": "google.com"
     },
     {
         "portifolio_id": 3,
-        "portifolio_title": "Logo",
+        "portifolio_title": "Database",
         "portifolio_desc": "Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit, Sed Do Eiusmod Tempor Incididunt Ut Labore Et Dolore Magna Aliqua.",
         "portifolio_photo": "portifolio-photo-1649273296.jpg",
         "portifolio_url": "google.com"

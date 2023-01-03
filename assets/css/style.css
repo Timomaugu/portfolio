@@ -9,7 +9,6 @@
   text-decoration: none;
   outline: none;
   border: none;
-  text-transform: capitalize;
 }
 
 html {
@@ -31,7 +30,7 @@ html::-webkit-scrollbar-thumb {
 }
 
 body {
-  background: #0d0d0d;
+  background: #076d57;
   padding-bottom: 6.5rem;
 }
 
@@ -41,7 +40,7 @@ section {
 
 .heading {
   text-align: center;
-  font-size: 3vw;
+  font-size: 1.5vw;
   color: #fff;
   margin-bottom: 3rem;
   text-transform: uppercase;
@@ -98,6 +97,7 @@ section {
 .navbar a {
   padding: 2rem;
   font-size: 2rem;
+  font-weight: bold;
   background: #1a1a1a;
   -webkit-box-flex: 1;
   -ms-flex: 1;
@@ -115,7 +115,7 @@ section {
 
 .navbar a:hover {
   background: #CB2729;
-  padding-bottom: 6rem;
+  padding-bottom: 3rem;
 }
 
 .navbar a:hover i {
@@ -162,14 +162,14 @@ section {
 
 .home .content span {
   font-size: 3rem;
-  color: #CB2729;
+  color: #f19409;
   padding: .5rem 0;
   display: block;
 }
 
 .home .content p {
-  font-size: 1.5rem;
-  color: #aaa;
+  font-size: 1.8rem;
+  color: #fff;
   padding: 1rem 0;
   line-height: 2;
 }
@@ -194,7 +194,7 @@ section {
 
 .about .row .info-container h1 {
   font-size: 3rem;
-  color: #fff;
+  color: #f19409;
   text-transform: uppercase;
   padding-bottom: 1rem;
 }
@@ -217,14 +217,14 @@ section {
 
 .about .row .info-container .box-container .box h3 {
   font-size: 1.7rem;
-  color: #fff;
+  color: #50ebf7;
   padding: 1rem 0;
   font-weight: normal;
 }
 
 .about .row .info-container .box-container .box h3 span {
-  color: #aaa;
-  font-weight: lighter;
+  color: #fff;
+  font-weight: bold;
 }
 
 .about .row .count-container {
@@ -245,7 +245,7 @@ section {
   flex: 1 1 20rem;
   padding: 3rem 4rem;
   border-radius: .5rem;
-  background: #1a1a1a;
+  background: #755555;
   -webkit-box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.7);
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.7);
 }
@@ -257,7 +257,7 @@ section {
 
 .about .row .count-container .box p {
   font-size: 2rem;
-  color: #aaa;
+  color: #fff;
 }
 
 .skills .box-container {
@@ -274,7 +274,7 @@ section {
   -webkit-box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.7);
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.7);
   border-radius: .5rem;
-  background: #1a1a1a;
+  background: #755555;
 }
 
 .skills .box-container .box:hover {
@@ -297,7 +297,7 @@ section {
   text-transform: uppercase;
 }
 
-.education .box-container {
+.experience .box-container {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -305,7 +305,7 @@ section {
   flex-wrap: wrap;
 }
 
-.education .box-container .box {
+.experience .box-container .box {
   -webkit-box-flex: 1;
   -ms-flex: 1 1 40rem;
   flex: 1 1 40rem;
@@ -318,7 +318,7 @@ section {
   position: relative;
 }
 
-.education .box-container .box i {
+.experience .box-container .box i {
   height: 4.5rem;
   width: 4.5rem;
   line-height: 4.5rem;
@@ -332,7 +332,7 @@ section {
   left: -2.5rem;
 }
 
-.education .box-container .box span {
+.experience .box-container .box span {
   font-size: 1.7rem;
   color: #fff;
   border-radius: 5rem;
@@ -340,7 +340,7 @@ section {
   background: #1a1a1a;
 }
 
-.education .box-container .box h3 {
+.experience .box-container .box h3 {
   font-size: 2rem;
   padding: 1rem 0;
   color: #fff;
@@ -348,7 +348,7 @@ section {
   font-weight: normal;
 }
 
-.education .box-container .box p {
+.experience .box-container .box p {
   font-size: 1.5rem;
   color: #aaa;
   line-height: 2;
@@ -536,7 +536,7 @@ section {
 .contact .row .info-container p {
   font-size: 1.5rem;
   line-height: 2;
-  color: #aaa;
+  color: #cac7c7;
   padding: 1rem 0;
 }
 
