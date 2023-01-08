@@ -368,7 +368,7 @@ section {
 }
 
 .portfolio .box-container .box {
-  height: 30rem;
+  height: 24rem;
   overflow: hidden;
   position: relative;
 }
@@ -381,8 +381,6 @@ section {
 .portfolio .box-container .box img {
   height: 100%;
   width: 100%;
-  -o-object-fit: cover;
-  object-fit: cover;
 }
 
 .portfolio .box-container .box .content {

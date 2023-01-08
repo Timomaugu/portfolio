@@ -3,42 +3,42 @@
         "portifolio_id": 1,
         "portifolio_title": "Web Dev",
         "portifolio_desc": "I served as a front end web developer and database admin assistant at Kensoko.com.",
-        "portifolio_photo": "portifolio-photo-1649264904.jpg",
-        "portifolio_url": "google.com"
+        "portifolio_photo": "portifolio-photo-1649264904.jpeg",
+        "portifolio_url": "kensoko.com"
     },
     {
         "portifolio_id": 2,
         "portifolio_title": "App Dev",
         "portifolio_desc": "Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit, Sed Do Eiusmod Tempor Incididunt Ut Labore Et Dolore Magna Aliqua.",
-        "portifolio_photo": "bible_graphics.png",
-        "portifolio_url": "google.com"
+        "portifolio_photo": "portifolio-photo-1453789417.jpeg",
+        "portifolio_url": "https://play.google.com/store/apps/developer?id=Noble+Ranks+Creatives"
     },
     {
         "portifolio_id": 3,
         "portifolio_title": "Database",
         "portifolio_desc": "Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit, Sed Do Eiusmod Tempor Incididunt Ut Labore Et Dolore Magna Aliqua.",
-        "portifolio_photo": "portifolio-photo-1649273296.jpg",
+        "portifolio_photo": "portifolio-photo-1649273296.jpeg",
         "portifolio_url": "google.com"
     },
     {
         "portifolio_id": 4,
-        "portifolio_title": "Recording",
+        "portifolio_title": "Logo Design",
         "portifolio_desc": "Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit, Sed Do Eiusmod Tempor Incididunt Ut Labore Et Dolore Magna Aliqua.",
         "portifolio_photo": "portifolio-photo-1649273344.jpg",
         "portifolio_url": "google.com"
     },
     {
         "portifolio_id": 5,
-        "portifolio_title": "Banking",
+        "portifolio_title": "IOT",
         "portifolio_desc": "Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit, Sed Do Eiusmod Tempor Incididunt Ut Labore Et Dolore Magna Aliqua.",
-        "portifolio_photo": "portifolio-photo-1649334485.jpg",
-        "portifolio_url": "google.com"
+        "portifolio_photo": "portifolio-photo-1987653447.jpeg",
+        "portifolio_url": "https://www.tinkercad.com/things/j6refKzmvqm"
     },
     {
         "portifolio_id": 6,
-        "portifolio_title": "Admin Dev",
+        "portifolio_title": "Data Analysis",
         "portifolio_desc": "Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit, Sed Do Eiusmod Tempor Incididunt Ut Labore Et Dolore Magna Aliqua.",
-        "portifolio_photo": "blog-photo-1649186620.jpeg",
+        "portifolio_photo": "portifolio-photo-3568721309.jpeg",
         "portifolio_url": "google.com"
     }
 ]
