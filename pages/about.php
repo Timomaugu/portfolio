@@ -40,7 +40,7 @@
                 </div>
             </div>
 
-            <a target="_blank" href="http://<?php echo $about['about_button']; ?>" class="btn"> Download CV <i
+            <a target="_blank" href="../storage/docs/<?php echo $about['about_resume']; ?>" class="btn"> Download CV <i
                     class="fas fa-download"></i> </a>
 
         </div>
