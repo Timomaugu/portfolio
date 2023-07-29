@@ -1,3 +1,3 @@
 <?php 
-   header('Location: page/home.php') 
+   header('Location: {"Timomaugu"}/page/home.php') 
 ?>
