@@ -247,7 +247,7 @@ section {
   border-radius: .5rem;
   background: #755555;
   -webkit-box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.5);
-  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0.3rem 1rem rgba(0, 0, 0, 0.5);
 }
 
 .about .row .count-container .box h3 {
@@ -272,7 +272,7 @@ section {
   padding: 2rem;
   text-align: center;
   -webkit-box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.5);
-  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0.3rem 1rem rgba(0, 0, 0, 0.5);
   border-radius: .5rem;
   background: #755555;
 }
