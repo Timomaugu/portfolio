@@ -90,3 +90,5 @@ rubiconproject.com, 25978, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 25482, RESELLER, 0bfd66d529a55807
 indexexchange.com, 206797, RESELLER, 50b1c356f2c5c8fc
 rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
+pubmatic.com, 156517, reseller, 5d62403b186f2ace
+rubiconproject.com, 15278, reseller, 0bfd66d529a55807
